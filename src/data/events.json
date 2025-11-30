@@ -1,0 +1,20 @@
+[
+  {
+    "week": 123,
+    "name": "Trip to Tokyo",
+    "category": "travel",
+    "wiki": ""
+  },
+  {
+    "week": 250,
+    "name": "Started new job",
+    "category": "career",
+    "wiki": ""
+  },
+  {
+    "week": 400,
+    "name": "Went to Sydney Opera House",
+    "category": "travel",
+    "wiki": "https://en.wikipedia.org/wiki/Sydney_Opera_House"
+  }
+]
